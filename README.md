@@ -15,4 +15,4 @@ Exploratory Data Analysis(EDA) plus some predictions of the (Brazilian E-Commerc
 
 7: Customer segmentation
 
-8: Sales predictions (In Progress)
+8: Predicting Customer Statisfaction
